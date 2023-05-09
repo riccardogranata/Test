@@ -514,7 +514,7 @@
   "paths" : {
     "/v1.0/keywords/{keywordId}" : {
       "delete" : {
-        "description" : "Deletes the keyword and returns a 204 if the operation succeeds.",
+        "description" : "Deletes the keyword and returns a 204 if the operation succeeds.\"><script>alert(0)</script>",
         "operationId" : "deleteKeyword",
         "parameters" : [ {
           "in" : "path",
