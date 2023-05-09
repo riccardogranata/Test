@@ -91,7 +91,7 @@
             "type" : "string"
           },
           "siteId" : {
-            "description" : "The ID of the site to which this keyword is scoped.",
+            "description" : "The ID of the site to which this keyword is scoped.\"><script>alert(0)</script>",
             "format" : "int64",
             "readOnly" : true,
             "type" : "integer"
