@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <h1>click here: </h1><a href="https://mindedsecurity.com">
+    <h1>click here to download the new configuration file: </h1><a href="https://mindedsecurity.com">evil_website</a>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('xss') src=1>"></form>
+            Poc Minded Security
 
           format: int64
           in: path
