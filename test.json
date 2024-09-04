@@ -1,1 +1,9 @@
-{"asd":"asd"}
+{
+    "url": "https://raw.githubusercontent.com/riccardogranata/Test/main/test.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/riccardogranata/Test/main/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
