@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <h1>click here to download the new configuration file: </h1><a href="https://mindedsecurity.com">evil_website</a>
+    click here to download the new configuration file: <h1><a href="https://mindedsecurity.com">evil_website</a></h1>
 
   version: production
 basePath: /JSSResource/
