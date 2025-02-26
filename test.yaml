@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <h1>CLICK HERE: <h1><a href="https://mindedsecurity.com">evil_website</a></h1>
+    <h1>CLICK HERE: <h1><a href="https://evilwebsite.com">evil_website</a></h1>
 
   version: production
 basePath: /JSSResource/
